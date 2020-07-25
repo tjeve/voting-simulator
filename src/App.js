@@ -10,11 +10,11 @@ function App() {
         <p>
           Ranked Choice Voting Simulator
         </p>
+        </div>
         <a className="App-link" href="https://ballotpedia.org/Ranked-choice_voting_(RCV)" target="_blank" rel="noopener noreferrer">
           Learn More about RCV (Ranked-Choice Voting)
         </a>
       </header>
-    </div>
   );
 }
 
